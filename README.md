@@ -1,5 +1,5 @@
 # Rps_game.py
-this is a simple game of rock paper and seissor.
+this is a simple game of rock paper and scissor.
 It takes one input for user and one for computer 
 and show the result.
 this code is made by using if elif and else
