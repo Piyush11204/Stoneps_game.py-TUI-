@@ -1,4 +1,4 @@
-# Stoneps_game.py
+# Rps_game.py
 this is a simple game of rock paper and seissor.
 It takes one input for user and one for computer 
 and show the result.
